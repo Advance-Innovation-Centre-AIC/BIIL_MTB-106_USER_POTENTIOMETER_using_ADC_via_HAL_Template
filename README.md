@@ -34,7 +34,7 @@ Tutorial how to use ADC via HAL
 5. Now you can spin your Potentiometer on your board which can range from 0-24 (V)
 
 
-### 🎉  Congratulations! You can now complete Lab100 by creating, building, and launching the application program.
+### 🎉  Congratulations! You can now complete Lab106 by creating, building, and launching the application program.
 
 
 ## Supported toolchains (make variable 'TOOLCHAIN')
