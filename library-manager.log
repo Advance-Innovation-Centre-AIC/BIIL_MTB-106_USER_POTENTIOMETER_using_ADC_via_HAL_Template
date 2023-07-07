@@ -1,0 +1,277 @@
+Loading the ModusToolbox Technology Packs and Early Access Packs
+Finished loading the ModusToolbox Technology Packs and Early Access Packs (1 ms)
+Loading the tools information
+Finished loading the tools information (6 ms)
+directory '/Users/wiroon/Library/Application Support/Infineon_Technologies_AG/Infineon-Toolbox' does not exist
+Using the executable path for the tools directory.
+Loading the application in directory '/Users/wiroon/Dropbox/BDH/Infineon/BDH_MTB_ADC_using_HAL_with_Potentiometer'
+creating application information from 'get_app_info' data
+finished creating application information from 'get_app_info' data (15 ms)
+Finished loading the application data (257 ms total, 234 make)
+Loading asset repository references
+Finished loading the asset repository references (98 ms)
+Loading the manifest data
+Loading super manfiest files from all sources
+Processing manifest loc file '/Users/wiroon/.modustoolbox/manifest.loc'
+Found user super-manifest(s):
+  'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml'
+Downloading super manifest file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml'
+Getting manifests from remote and/or local sources
+Processing system manifest 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading super manifest file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished loading super manifest files from all sources
+Finished download of file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml'
+Starting to parse super manifest with URL 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml'
+Finished parsing super manifest with URL 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml'
+Downloading manifest file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-app-manifest.xml'
+Finished download of file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Starting to parse super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished parsing super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Finished download of file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-app-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Finished loading the manifest data (2545 ms)
+Loading the device db
+Finished loading the device db (950 ms)
+Starting to refresh dependencies for project 'mtb-example-empty-app'.
+Requested to remove the asset 'cat1cm0p'.
+Requested to remove the asset 'cmsis'.
+Requested to remove the asset 'core-lib'.
+Requested to remove the asset 'core-make'.
+Requested to remove the asset 'mtb-hal-cat1'.
+Requested to remove the asset 'mtb-pdl-cat1'.
+Requested to remove the asset 'recipe-make-cat1a'.
+Requested to add the asset 'mtb-hal-cat1'.
+Requested to add the asset 'core-make'.
+Requested to add the asset 'cat1cm0p'.
+Requested to add the asset 'recipe-make-cat1a'.
+Requested to add the asset 'core-lib'.
+Requested to add the asset 'mtb-pdl-cat1'.
+Requested to add the asset 'cmsis'.
+Found direct dependencies ''.
+Found new indirect dependencies 'mtb-hal-cat1, core-make, cat1cm0p, recipe-make-cat1a, core-lib, mtb-pdl-cat1, cmsis'.
+Refreshed all dependencies for project 'mtb-example-empty-app'.
+0 error(s), 0 warning(s)
+Successfully acquired the information.
+Requested to add the asset 'retarget-io'.
+Starting to refresh dependencies for project 'mtb-example-empty-app'.
+Requested to remove the asset 'cat1cm0p'.
+Requested to remove the asset 'cmsis'.
+Requested to remove the asset 'core-lib'.
+Requested to remove the asset 'core-make'.
+Requested to remove the asset 'mtb-hal-cat1'.
+Requested to remove the asset 'mtb-pdl-cat1'.
+Requested to remove the asset 'recipe-make-cat1a'.
+Requested to add the asset 'mtb-hal-cat1'.
+Requested to add the asset 'core-make'.
+Requested to add the asset 'cat1cm0p'.
+Requested to add the asset 'recipe-make-cat1a'.
+Requested to add the asset 'core-lib'.
+Requested to add the asset 'mtb-pdl-cat1'.
+Requested to add the asset 'cmsis'.
+Found direct dependencies 'retarget-io'.
+Found new indirect dependencies 'mtb-hal-cat1, core-make, cat1cm0p, recipe-make-cat1a, core-lib, mtb-pdl-cat1, cmsis'.
+Refreshed all dependencies for project 'mtb-example-empty-app'.
+
+Starting to refresh dependencies for project 'mtb-example-empty-app'.
+Requested to remove the asset 'cat1cm0p'.
+Requested to remove the asset 'cmsis'.
+Requested to remove the asset 'core-lib'.
+Requested to remove the asset 'core-make'.
+Requested to remove the asset 'mtb-hal-cat1'.
+Requested to remove the asset 'mtb-pdl-cat1'.
+Requested to remove the asset 'recipe-make-cat1a'.
+Requested to add the asset 'mtb-hal-cat1'.
+Requested to add the asset 'core-make'.
+Requested to add the asset 'cat1cm0p'.
+Requested to add the asset 'recipe-make-cat1a'.
+Requested to add the asset 'core-lib'.
+Requested to add the asset 'mtb-pdl-cat1'.
+Requested to add the asset 'cmsis'.
+Found direct dependencies 'retarget-io'.
+Found new indirect dependencies 'mtb-hal-cat1, core-make, cat1cm0p, recipe-make-cat1a, core-lib, mtb-pdl-cat1, cmsis'.
+Refreshed all dependencies for project 'mtb-example-empty-app'.
+
+Changelog for project "BDH_MTB_ADC_using_HAL_with_Potentiometer":
+retarget-io version release-v1.4.0 added
+
+Click "Update" to commit the changesUpdating application "BDH_MTB_ADC_using_HAL_with_Potentiometer" ...
+Starting to commit changes to the filesystem and project 'mtb-example-empty-app'.
+Requested asset 'retarget-io'.
+Requested asset 'cat1cm0p'.
+Requested asset 'cmsis'.
+Requested asset 'core-lib'.
+Requested asset 'core-make'.
+Requested asset 'mtb-hal-cat1'.
+Requested asset 'mtb-pdl-cat1'.
+Requested asset 'recipe-make-cat1a'.
+Writing mtb file for asset 'retarget-io' to the folder '/Users/wiroon/Dropbox/BDH/Infineon/BDH_MTB_ADC_using_HAL_with_Potentiometer/deps'.
+Starting to fetch assets for the project directory '/Users/wiroon/Dropbox/BDH/Infineon/BDH_MTB_ADC_using_HAL_with_Potentiometer'.
+Starting: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/retarget-io/release-v1.4.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/cat1cm0p/release-v1.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/cmsis/release-v5.8.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/core-lib/release-v1.3.1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/core-make/release-v3.0.2 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/mtb-hal-cat1/release-v2.2.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/mtb-pdl-cat1/release-v3.2.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/cmsis/release-v5.8.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/retarget-io/release-v1.4.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/cat1cm0p/release-v1.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/recipe-make-cat1a/release-v2.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/cmsis/release-v5.8.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/retarget-io/release-v1.4.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/core-lib/release-v1.3.1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/core-make/release-v3.0.2 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/mtb-hal-cat1/release-v2.2.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/mtb-pdl-cat1/release-v3.2.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/cat1cm0p/release-v1.0.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/core-lib/release-v1.3.1 fetch cypress --tags --force --quiet
+Starting: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/core-make/release-v3.0.2 fetch cypress --tags --force --quiet
+Starting: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/mtb-hal-cat1/release-v2.2.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/recipe-make-cat1a/release-v2.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/mtb-pdl-cat1/release-v3.2.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/cmsis/release-v5.8.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/recipe-make-cat1a/release-v2.0.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/core-lib/release-v1.3.1 fetch cypress --tags --force --quiet
+Starting: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/cmsis/release-v5.8.0 checkout release-v5.8.0
+Success: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/cat1cm0p/release-v1.0.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/retarget-io/release-v1.4.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/core-lib/release-v1.3.1 checkout release-v1.3.1
+Starting: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/cat1cm0p/release-v1.0.0 checkout release-v1.0.0
+Success: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/core-make/release-v3.0.2 fetch cypress --tags --force --quiet
+Starting: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/retarget-io/release-v1.4.0 checkout release-v1.4.0
+HEAD is now at ce02f64 Upload cmsis 5.8.0.50
+Success: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/cmsis/release-v5.8.0 checkout release-v5.8.0
+Finished processing cmsis
+Success: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/mtb-pdl-cat1/release-v3.2.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/mtb-hal-cat1/release-v2.2.0 fetch cypress --tags --force --quiet
+HEAD is now at 1c1cb8a Upload core-lib 1.3.1.29660
+Starting: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/core-make/release-v3.0.2 checkout release-v3.0.2
+Starting: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/mtb-pdl-cat1/release-v3.2.0 checkout release-v3.2.0
+Starting: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/mtb-hal-cat1/release-v2.2.0 checkout release-v2.2.0
+Success: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/core-lib/release-v1.3.1 checkout release-v1.3.1
+Finished processing core-lib
+HEAD is now at b3d4b82 Upload cat1cm0p 1.0.0.148
+Success: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/cat1cm0p/release-v1.0.0 checkout release-v1.0.0
+Finished processing cat1cm0p
+HEAD is now at 3072757 Upload retarget-io [123]
+Success: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/retarget-io/release-v1.4.0 checkout release-v1.4.0
+Finished processing retarget-io
+HEAD is now at 36592d7 Upload core-make 3.0.2.4113
+Success: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/core-make/release-v3.0.2 checkout release-v3.0.2
+Finished processing core-make
+HEAD is now at 3bd35be Upload mtb-pdl-cat1 3.2.0.20064 [335]
+Success: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/mtb-pdl-cat1/release-v3.2.0 checkout release-v3.2.0
+Finished processing mtb-pdl-cat1
+HEAD is now at d672ead Upload mtb-hal-cat1 2.2.0.30598
+Success: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/mtb-hal-cat1/release-v2.2.0 checkout release-v2.2.0
+Finished processing mtb-hal-cat1
+Success: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/recipe-make-cat1a/release-v2.0.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/recipe-make-cat1a/release-v2.0.0 checkout release-v2.0.0
+HEAD is now at 28d875a Upload recipe-make-cat1a 2.0.0.4056
+Success: git -C /Users/wiroon/Dropbox/BDH/Infineon/mtb_shared/recipe-make-cat1a/release-v2.0.0 checkout release-v2.0.0
+Finished processing recipe-make-cat1a
+Fetched all assets for the project directory '/Users/wiroon/Dropbox/BDH/Infineon/BDH_MTB_ADC_using_HAL_with_Potentiometer'.
+Writing the file '/Users/wiroon/Dropbox/BDH/Infineon/BDH_MTB_ADC_using_HAL_with_Potentiometer/libs/app.mk'.
+Successfully committed changes to the project 'mtb-example-empty-app'.
+0 error(s), 0 warning(s)
+Successfully updated application "BDH_MTB_ADC_using_HAL_with_Potentiometer"
+Updating Launch Configurations ...
+Calling "make eclipse" ...
+Tools Directory: /Applications/ModusToolbox/tools_3.0
+Searching installed tools in progress...
+Searching installed tools complete
+Prebuild operations complete
+Auto-discovery in progress...
+Auto-discovery complete
+Commencing build operations...
+Tools Directory: /Applications/ModusToolbox/tools_3.0
+Initializing build: mtb-example-empty-app Debug APP_CY8CKIT-062S2-43012 GCC_ARM
+Constructing build rules...
+Build rules construction complete
+==============================================================================
+= Generating IDE files =
+==============================================================================
+Generated /Users/wiroon/Dropbox/BDH/Infineon/BDH_MTB_ADC_using_HAL_with_Potentiometer/.mtbLaunchConfigs/BDH_MTB_ADC_using_HAL_with_Potentiometer Attach (JLink).launch
+Generated /Users/wiroon/Dropbox/BDH/Infineon/BDH_MTB_ADC_using_HAL_with_Potentiometer/.mtbLaunchConfigs/BDH_MTB_ADC_using_HAL_with_Potentiometer Attach (KitProg3_MiniProg4).launch
+Generated /Users/wiroon/Dropbox/BDH/Infineon/BDH_MTB_ADC_using_HAL_with_Potentiometer/.mtbLaunchConfigs/BDH_MTB_ADC_using_HAL_with_Potentiometer Debug (JLink).launch
+Generated /Users/wiroon/Dropbox/BDH/Infineon/BDH_MTB_ADC_using_HAL_with_Potentiometer/.mtbLaunchConfigs/BDH_MTB_ADC_using_HAL_with_Potentiometer Debug (KitProg3_MiniProg4).launch
+Generated /Users/wiroon/Dropbox/BDH/Infineon/BDH_MTB_ADC_using_HAL_with_Potentiometer/.mtbLaunchConfigs/BDH_MTB_ADC_using_HAL_with_Potentiometer Erase (JLink).launch
+Generated /Users/wiroon/Dropbox/BDH/Infineon/BDH_MTB_ADC_using_HAL_with_Potentiometer/.mtbLaunchConfigs/BDH_MTB_ADC_using_HAL_with_Potentiometer Erase (KitProg3_MiniProg4).launch
+Generated /Users/wiroon/Dropbox/BDH/Infineon/BDH_MTB_ADC_using_HAL_with_Potentiometer/.mtbLaunchConfigs/BDH_MTB_ADC_using_HAL_with_Potentiometer Program (JLink).launch
+Generated /Users/wiroon/Dropbox/BDH/Infineon/BDH_MTB_ADC_using_HAL_with_Potentiometer/.mtbLaunchConfigs/BDH_MTB_ADC_using_HAL_with_Potentiometer Program (KitProg3_MiniProg4).launch
+INFO: The /Users/wiroon/Dropbox/BDH/Infineon/BDH_MTB_ADC_using_HAL_with_Potentiometer/.project already exist and will not be regenerated
+INFO: The /Users/wiroon/Dropbox/BDH/Infineon/BDH_MTB_ADC_using_HAL_with_Potentiometer/.cproject already exist and will not be regenerated
+Instructions:
+1. Open Eclipse IDE for ModusToolbox
+2. Select 'Import Existing Application In-Place' from the QuickPanel
+3. Browse to the application root directory
+  
+"make eclipse" succeeded
+
+Starting to refresh dependencies for project 'mtb-example-empty-app'.
+Requested to remove the asset 'cat1cm0p'.
+Requested to remove the asset 'cmsis'.
+Requested to remove the asset 'core-lib'.
+Requested to remove the asset 'core-make'.
+Requested to remove the asset 'mtb-hal-cat1'.
+Requested to remove the asset 'mtb-pdl-cat1'.
+Requested to remove the asset 'recipe-make-cat1a'.
+Requested to add the asset 'mtb-hal-cat1'.
+Requested to add the asset 'core-make'.
+Requested to add the asset 'cat1cm0p'.
+Requested to add the asset 'recipe-make-cat1a'.
+Requested to add the asset 'core-lib'.
+Requested to add the asset 'mtb-pdl-cat1'.
+Requested to add the asset 'cmsis'.
+Found direct dependencies 'retarget-io'.
+Found new indirect dependencies 'mtb-hal-cat1, core-make, cat1cm0p, recipe-make-cat1a, core-lib, mtb-pdl-cat1, cmsis'.
+Refreshed all dependencies for project 'mtb-example-empty-app'.
