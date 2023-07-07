@@ -10,6 +10,26 @@
 
 
 ## 🚩 Let start
+1. Connect the board to your computer using the provided USB cable through the KitProg3 USB connector.
+
+<img width="1252" alt="image" src="https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-106_USER_POTENTIOMETER_using_ADC_via_HAL_Template/assets/130473310/fc044f38-0335-4094-95ff-9fb7573b98fa">
+
+2. Open a terminal program and select the KitProg3 COM port. Set the serial port parameters to 8N1 and 115200 baud.
+
+<img width="1680" alt="image" src="https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-106_USER_POTENTIOMETER_using_ADC_via_HAL_Template/assets/130473310/4b2344b3-5394-4eef-85fc-5999783f7c44">
+
+3. Program the board using the following step: <br>
+
+   i. Eclipse for ModusToolbox IDE program. <br>
+   ii. Select the application project in the Project Explorer. <br>
+   iii. Click **Build Apllication**. <br>
+   iiii. In the **Quick Panel**, scroll down, and click **BIIL_MTB-106_USER_POTENTIOMETER_using_ADC_via_HAL_Template Program (KitProg3_MiniProg4)**.
+
+3. After successful programming, the terminal should display the message as follows:
+
+<img width="1680" alt="image" src="https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-106_USER_POTENTIOMETER_using_ADC_via_HAL_Template/assets/130473310/f9e3835a-a803-4feb-8add-c3bd2908c1fe">
+
+5. Now you can spin your Potentiometer on your board which can range from 0-24 (V)
 
 
 ### 🎉  Congratulations! You can now complete Lab100 by creating, building, and launching the application program.
@@ -33,8 +53,7 @@
 Resources  | Links
 -----------|----------------------------------
 BDH Shell for LED Blinking and Capsense Slider  | [Github](https://www.infineon.com/AN228571) – Getting started with PSoC&trade; 6 MCU on ModusToolbox&trade; software 
-FREERTOS  | [Github](https://www.infineon.com/AN228571) – FREERTOS 
-SensiML  | [Github](https://www.infineon.com/AN228571) – SensiML
+
 
 
 
