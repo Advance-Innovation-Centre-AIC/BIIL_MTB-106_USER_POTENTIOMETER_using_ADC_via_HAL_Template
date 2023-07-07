@@ -76,9 +76,9 @@ Document title: *BILL_MTB-100* – *Hello World with LED Blinking Template*
 
 
 ## Authors:
-- *Assoc. Prof. Wiroon Sriborrirux*
-- *Mr. Sriengchhun Chheang*
-- *Mr. Sabol Socare*
+- **Assoc. Prof. Wiroon Sriborrirux**
+- **Mr. Sriengchhun Chheang**
+- **Mr. Sabol Socare**
 <br>
 
 <br>
